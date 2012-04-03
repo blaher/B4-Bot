@@ -1,0 +1,3 @@
+[submodule "lib/IRCphpAPI"]
+	path = lib/IRCphpAPI
+	url = git@github.com:blahertech/IRCphpAPI.git
